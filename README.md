@@ -25,7 +25,7 @@ For this project, I was interestested in using Airbnb quarterly data for the las
 
 There are 6 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional notebook file ('COMPLETE') that contains all the parts together.
+There is an additional notebook file ('COMPLETE.ipynb') that contains all the parts together.
 
 ## Results<a name="results"></a>
 
