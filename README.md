@@ -27,7 +27,7 @@ This is my first project of the nanodegree Data Scientist on Udacity, and for th
 
 ### [Select relevant information and basic data-cleaning](https://github.com/zaninth/AirbnbRioDeJaneiro/blob/main/1%20Relevant%20information%20and%20basic%20data%20cleaning.ipynb)
 
-- Selection of relevant features.
+- Selection of relevant features and columns.
 - Elimination of unpleasant characters and correction of data types.
 - Removing neighbourhood column and renaming neighbourhood_cleansed column to neighbourhood, beacuse there was where the real data was stored.
 - Cleaning the feature amenities and creating a little barchart to try out understand the amenites column. 
