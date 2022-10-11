@@ -79,7 +79,7 @@ This is my first project of the nanodegree Data Scientist on Udacity, and for th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](link do medium).
+The main findings of the code can be found at the post available [here](https://medium.com/@thaleszanin/this-is-airbnb-in-rio-715686163d3c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
