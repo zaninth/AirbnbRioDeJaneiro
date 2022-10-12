@@ -19,7 +19,7 @@ This is my first project of the nanodegree Data Scientist on Udacity, and for th
 1. What is the most expansive neighbourhood in Rio de Janeiro?
 2. What time of the year has the higher rental prices?
 3. What features that influence the property pricing?
-4. How are the listings distributeds on Rio de Janeiro?
+4. How are the listings distributed on Rio de Janeiro?
 5. How to choose a model to try predict the price of Rio's listings?
 
 
