@@ -14,7 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This is my first project of the nanodegree Data Scientist on Udacity, and for this project, I was interestested in using Airbnb quarterly data set to better understand:
+This is my first project of the nanodegree Data Scientist on Udacity, and for this project, I was interested in using Airbnb quarterly data set to better understand:
 
 1. What is the most expansive neighbourhood in Rio de Janeiro?
 2. What time of the year has the higher rental prices?
